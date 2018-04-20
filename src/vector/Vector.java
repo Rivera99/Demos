@@ -29,6 +29,7 @@ public class Vector {
         
         int seguir;
         String nombre="";
+        int num=0;
         
         do{
             nombre = JOptionPane.showInputDialog(null, "Ingrese su nombre: ");
